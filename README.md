@@ -30,6 +30,23 @@ A collection of small JavaScript exercises to practice core programming concepts
    8. FizzBuzz Algorithm 🔢
       Classic FizzBuzz solution for numbers divisible by 3 and 5.
 
+   9. beer Song
+      Song where number of beer bottles changes with the help of loops
+   
+   10. Fibonacci Logic
+      Create Fibonacci series for any number. The Fibonacci sequence is a sequence in which each element is the sum of the two elements that precede it.
+      [0,1,1,2,3,5,8]
+      0 + 1 = 1
+      1 + 1 = 2
+      1 + 2 = 3
+      3 + 2 = 5
+
+
+
+   
+
+
+
 
 
 
